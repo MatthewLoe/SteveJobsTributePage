@@ -2,6 +2,15 @@ div {
 	text-align:center;
 }
 
+figure {
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	height: auto;
+}
+
 ul {
 	text-align: left;
 }
